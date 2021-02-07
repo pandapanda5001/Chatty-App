@@ -17,3 +17,5 @@ To run app simply follow these steps:
 
 - Run **node index** to start application.
 - Visit **http://localhost:1337** in your browser
+ 
+ Reference: https://medium.com/@noufel.gouirhate/build-a-simple-chat-app-with-node-js-and-socket-io-ea716c093088
